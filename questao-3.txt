@@ -1,0 +1,2 @@
+O erro se dá pois o valor da variável nunca aumenta, gerando um loop infinito.
+Alternativa B) loop infinito.
